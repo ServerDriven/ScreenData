@@ -6,7 +6,9 @@ SomeView {
 	container: ContainerView?
 	image: Image?
 	label: Label?
+	text: Text?
+	button: Button?
 	labeledImage: LabeledImage?
-	view: View?
+	customView: CustomView?
 }
 ```

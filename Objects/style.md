@@ -1,7 +1,10 @@
 ### Style
 ```
 Style {
-	backgroundColor: Color?
 	isHidden: Bool
+	cornerRadius: Int
+	
+	backgroundColor: Color?
+	foregroundColor: Color?
 }
 ```
