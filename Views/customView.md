@@ -1,6 +1,6 @@
-### View
+### CustomView
 ```
-View {
+CustomView {
 	id: String?
 
 	title: String
