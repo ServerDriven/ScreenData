@@ -3,6 +3,6 @@
 Spacer {
     size: Int
 
-	type: ViewType = .spacer
+    type: ViewType = .spacer
 }
 ```
