@@ -8,5 +8,6 @@ enum ViewType: String {
 	case labeledImage
 	case container
 	case custom
+	case spacer
 }
 ```
