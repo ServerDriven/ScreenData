@@ -6,5 +6,10 @@ Style {
 	
 	backgroundColor: Color?
 	foregroundColor: Color?
+	
+	width: Int?
+	height: Int?
+	
+	padding: Int
 }
 ```
