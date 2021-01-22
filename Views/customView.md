@@ -3,7 +3,7 @@
 CustomView {
 	id: String?
 
-	title: String
+	title: String?
 	subtitle: String?
 
 	style: Style?
@@ -11,9 +11,9 @@ CustomView {
 	image: Image?
 
 	destination: Destination?
-	axis: ViewDirectionAxis
+	axis: ViewDirectionAxis?
 
-	views: [SomeView]
+	views: [SomeView]?
 
 	type: ViewType = .custom
 }
