@@ -3,6 +3,7 @@
 ContainerView {
 	id: String?
 
+	isScrollable: Bool
 	axis: ViewDirectionAxis
 	views: [SomeView]
 
