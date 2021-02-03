@@ -1,6 +1,6 @@
 ### FontType
 ```
-enum ViewType: String {
+enum FontType: String {
 	case largeTitle
 	case title
 	case headline
