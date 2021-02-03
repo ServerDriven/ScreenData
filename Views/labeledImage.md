@@ -7,6 +7,7 @@ LabeledImage {
 	subtitle: String?
 	image: Image
 
+	font: FontType
 	style: Style?
 
 	destination: Destination?
