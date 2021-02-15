@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+
+title: "ScreenData"
+description: "A Data Model structure for displaying UI Screens"
+
+logo: "https://github.com/ServerDriven/website/blob/main/.media/SDImage.png?raw=true"
