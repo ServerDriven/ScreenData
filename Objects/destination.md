@@ -6,3 +6,11 @@ Destination {
 	toID: String
 }
 ```
+
+### JSON Example
+```
+{
+	"type": "screen",
+	"toID": "home"
+}
+```
