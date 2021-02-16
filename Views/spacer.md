@@ -6,3 +6,10 @@ Spacer {
     type: ViewType = .spacer
 }
 ```
+
+### JSON Example
+```
+{
+  "size": 8
+}
+```
