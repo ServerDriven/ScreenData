@@ -4,7 +4,6 @@ Screen {
 	id: String?
 
 	title: String
-	subtitle: String?
 
 	backgroundColor: Color
 
