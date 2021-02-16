@@ -1,9 +1,9 @@
 ### Color
 ```
 Color {
-	red: Int
-	green: Int
-	blue: Int
-	alpha: Int
+	red: Float
+	green: Float
+	blue: Float
+	alpha: Float
 }
 ```
