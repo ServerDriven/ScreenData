@@ -4,6 +4,7 @@ Image {
 	id: String?
 
 	url: String
+        assetName: String?
 	aspectScale: ImageAspectScale
 
 	style: Style?
