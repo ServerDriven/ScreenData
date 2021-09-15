@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-dash
 
 title: "ScreenData"
 description: "A Data Model structure for displaying UI Screens"
