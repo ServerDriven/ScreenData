@@ -35,3 +35,4 @@ A Data Model structure for displaying UI Screens
 
 - [Kotlin](https://github.com/ServerDriven/ScreenData-kotlin)
 - [Swift](https://github.com/ServerDriven/ScreenData-swift)
+- [Typescript](https://github.com/ServerDriven/ScreenData-typescript)
